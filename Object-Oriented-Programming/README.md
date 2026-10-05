@@ -1,9 +1,8 @@
-# 🏗️ Data Structures
+# 🏛️ Object-Oriented Programming (OOP)
 
-Custom implementations of core Abstract Data Types (ADTs) built from scratch in Java. This repository emphasizes low-level memory management, algorithmic efficiency (Time/Space complexity), and rigorous encapsulation without relying on standard `java.util` collections.
+Projects focused on software architecture and the four pillars of Object-Oriented Programming: Encapsulation, Abstraction, Inheritance, and Polymorphism. These implementations showcase interface-driven development and scalable code design.
 
 ## 📂 Projects Overview
 
-* **[`Dynamic-Array-Stack`](./Dynamic-Array-Stack/)**: A robust Stack implementation featuring both an auto-resizing dynamic array ($O(N)$ amortized) and an infinitely scalable Reference-Based Node architecture ($O(1)$).
-* **[`LinkedList-ADT`](./LinkedList-ADT/)**: A custom-built Linked List demonstrating pointer manipulation, node traversal, and dynamic memory allocation.
-* **[`Queue`](./Queue/)**: Implementation of a First-In-First-Out (FIFO) data structure, handling efficient enqueue and dequeue operations.
+* **[`Shape-Polymorphism`](./Shape-Polymorphism/)**: A multi-phase project illustrating polymorphism and abstraction, evolving from a console-based geometric calculator to a visual GUI renderer using Java AWT/Swing.
+* **[`CreditCard-System`](./CreditCard-System/)**: An object-oriented model of a financial system, demonstrating strict data encapsulation, state management, and secure class interactions.
