@@ -41,11 +41,14 @@ javac phase1/*.java
 
 # Run the console tester
 java phase1.ShapeTester
+```
 
 ### Running Phase 2 (GUI)
-```Bash
+
+```bash
 # Compile the phase2 package
 javac phase2/*.java
 
 # Run the GUI visualizer
 java phase2.ShapeGUITester
+```
